@@ -7,7 +7,7 @@ class Beards extends Component {
       <div className="Beards">
         <h3>Beardly Fellow</h3>
         <p>He likes to grow out his beard and stuff</p>
-        <p>Oh man! We are learning things and stuff</p>
+        <p>New Line from Student Machine</p>
       </div>
     );
   }
