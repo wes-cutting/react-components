@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom'
 import './index.css'
 import App from './App'
 import registerServiceWorker from './registerServiceWorker'
-import Beards from './Beards.js'
-import Hats from './Hats.js'
-import Builds from './Builds.js'
+import Beards from './components/Beards.js'
+import Hats from './components/Hats.js'
+import Builds from './components/Builds.js'
 
 
 ReactDOM.render(<App/>, document.getElementById('root'))

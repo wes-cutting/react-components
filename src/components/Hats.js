@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import './Hats.css'
+import '../style/Hats.css'
 
 class Hats extends Component {
   render() {

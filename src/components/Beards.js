@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Beards.css';
+import '../style/Beards.css';
 
 class Beards extends Component {
   render() {

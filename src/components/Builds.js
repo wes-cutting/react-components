@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import './Builds.css'
+import '../style/Builds.css'
 
 class Builds extends Component {
   render() {
